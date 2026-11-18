@@ -1,2 +1,7 @@
-# chamber
-A collection of quiet intelligence puzzles you can play in Safari or as a Home Screen app.
+# Chamber
+
+A collection of quiet intelligence puzzles.
+
+Play it in Safari: https://md2ppt.github.io/chamber/
+
+On iPhone, open that link in Safari, tap the Share button, then **Add to Home Screen**.
